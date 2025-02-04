@@ -11,7 +11,7 @@ int add(int a, int b) {
  * @brief Subtracts one number from another.
  */
 int subtract(int a, int b) {
-    return a - b;
+    return a + b;
 }
 
 /**
